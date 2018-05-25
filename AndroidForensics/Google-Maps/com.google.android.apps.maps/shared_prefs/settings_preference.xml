@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="personal_route_fetching_enabled_cache$" value="true" />
+    <long name="improve_location_dialog" value="1526915733691" />
+    <long name="area_traffic_notification_subscription_request_time_ms" value="1526913795018" />
+    <string name="aid#research.spreitzenbarth@gmail.com">100668918541982378550</string>
+    <string name="app_version">9.77.2</string>
+    <boolean name="improve_location_dialog_last_response" value="true" />
+    <string name="gcm_registration_id_for_user$100668918541982378550">APA91bG6iAz2kKnnsJKIEvDcHeHeEYITEfBPhDQZid2rn0xBo46FhSm3SEbp0NPQAQ2axwWzJJ0kbgQoDs6LenNBU5oLVXjAgulmrxSUhO8pFiCgY4yhq8919qi2FXeEjs6fsZPzNAUa</string>
+    <int name="gcm_registration_version" value="977200134" />
+    <long name="last_background_timestamp_ms" value="1526915833693" />
+    <boolean name="offline_legacy_regions_migrated$100668918541982378550" value="true" />
+    <boolean name="oob_login_promo_shown" value="true" />
+    <boolean name="goldfinger_should_collapse_next_start" value="true" />
+    <boolean name="area_traffic_notification" value="true" />
+    <boolean name="navigation_terms_accepted" value="true" />
+    <int name="settings_version" value="7" />
+    <boolean name="traffic_two_wheeler" value="false" />
+    <boolean name="oob_ulr_promo_shown" value="true" />
+    <string name="current_account_id">100668918541982378550</string>
+    <boolean name="commute_setup_v0_promo_notif_suppress" value="true" />
+    <string name="tutorial_history_sync_info$100668918541982378550"></string>
+    <boolean name="navigation_session_in_progress" value="false" />
+    <boolean name="traffic_to_place_notifications" value="true" />
+    <long name="gcm_last_registration_per_user_timestamp$100668918541982378550" value="1526913668634" />
+    <string name="cy">DE</string>
+    <long name="notification_history_salt" value="4417320537063985954" />
+    <string name="distance_units@OLD_PREFERENCE_VALUE">UNKNOWN</string>
+    <string name="last_foreground_location">CAEQPhjA4M/ejJfbAioKDW8/sxwVYwHdBj3berxJ
+    </string>
+    <string name="voice_bundles">en_US:voice_instructions_unitless.zip:a363211d:16383434655:163832623f1</string>
+    <boolean name="terms_accepted_logged" value="true" />
+    <int name="tutorials_state_my_location_click_count" value="2" />
+    <boolean name="waa_status$100668918541982378550" value="true" />
+    <string name="guide_latest_entry_point">CgQYBigVGAEiHkV4cGxvcmUgZm9vZCAmIGRyaW5rcyBuZWFyIHlvdSoEGAYoFTIHRXhwbG9yZVoH
+RXhwbG9yZWIRRXhwbG9yZSB0aGlzIGFyZWFqBExhaW1yEkV4cGxvcmUgYXJvdW5kIHlvdToDCP4B
+QgMI4R9SBTBFSUJE
+    </string>
+    <boolean name="tutorials_state_layers_menu_ever_opened" value="true" />
+    <int name="launch_count" value="3" />
+    <string name="recent_account_names"></string>
+    <string name="cohort">785</string>
+    <boolean name="shake_to_send_feedback" value="true" />
+    <string name="zb">130=OLgwxZZppmgZs8isJVnU-fsDiD__WGOk9mCpSywa8XRqVS_jL8euPG8IlpRixgJLZNXxFzmv-fCPvBB82TLnuIXUl3hdhJ24-i06e-US0Ss41-rZzF3-26eWZ-5hUCm0</string>
+    <boolean name="personal_route_fetching_enabled_cache$100668918541982378550" value="true" />
+    <int name="terms_accepted" value="1" />
+    <long name="navigation_session_creation_timestamp" value="1526913840346" />
+    <string name="gcm_registration_id">APA91bG6iAz2kKnnsJKIEvDcHeHeEYITEfBPhDQZid2rn0xBo46FhSm3SEbp0NPQAQ2axwWzJJ0kbgQoDs6LenNBU5oLVXjAgulmrxSUhO8pFiCgY4yhq8919qi2FXeEjs6fsZPzNAUa</string>
+    <boolean name="home_work_side_menu_attention_promo_showing$100668918541982378550" value="false" />
+    <long name="home_fragment_last_stop_timestamp_ms" value="1526915739776" />
+    <boolean name="suppress_area_traffic_warm_up" value="true" />
+    <int name="offline_initialization_crash_count" value="0" />
+    <boolean name="tutorials_state_place_sheet_ever_expanded" value="true" />
+    <null name="custom_place_lists_to_show_on_base_map$100668918541982378550" />
+    <boolean name="pa_cache_file_per_account" value="true" />
+    <string name="area_traffic_notification_subscription">CgIIATABOAFAoJwB
+    </string>
+    <boolean name="directions_show_initial_taxi_tab" value="true" />
+    <long name="start_of_current_promo_throttler_visit_timestamp_ms" value="1526913660430" />
+    <string name="tutorial_history">EhoKCQjV9ZWZuCwQEhINCBIQ1fWVmbgsGAEoABIaCgkIpuKZmbgsEA8SDQgPEKbimZm4LBgBKAAS
+GgoJCJGSmpm4LBALEg0ICxCRkpqZuCwYASgA
+    </string>
+    <long name="gmm_last_used" value="1526913660429" />
+    <long name="nav_restore_last_phone_timestamp" value="1526913840346" />
+    <string name="directions_search_history$100668918541982378550">ClQKQDJkYWU2YjNiNGEzZDkwY2EyMmJmMzA5ZTY1YjkxNjMxZGExNzBkOWVmNjA3NTdmYmEzMDRh
+MDYyNGQ5MDM2ZWMSEAj7n6CZuCwQASD7n6CZuCwKVApANjQ5NGU0NTZhMGRkYWViMmRjZjE3ODI1
+NzA0ZjUzZTFiNTA2ZTdlN2VhMTc3MTE0YWM3OTZmMTg4NmQ5OGRlZRIQCNHLmJm4LBABINHLmJm4
+LA==
+    </string>
+    <string name="hotword_promo">EAE=
+    </string>
+    <string name="user_parameters$100668918541982378550">EgIIASoCCAEyAggBOgIIAEICCAFiAggBkgECCAAiAggAWgIIAWoCCAFyAggBegIIAQ==
+    </string>
+    <set name="layers_state" />
+</map>
